@@ -17,4 +17,4 @@ This game is a second year university project for  [Grado en Desarrollo de Video
 
 ## Link
 
-*WIP*
+dicetime.github.io
